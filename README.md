@@ -1,10 +1,10 @@
-# Лендинг-приглашение на свадьбу
+# Landing page wedding invitation
 
 ## Colors
 
-- <span style="color:#93A688">#93A688</span>
-- <span style="color:#272924">#272924</span>
-- <span style="color:#FAF6F1">#FAF6F1</span>
+- ![#FAF6F1](https://placehold.co/15x15/FAF6F1/FAF6F1.png) `#FAF6F1`
+- ![#272924](https://placehold.co/15x15/272924/272924.png) `#272924`
+- ![#FAF6F1](https://placehold.co/15x15/FAF6F1/FAF6F1.png) `#FAF6F1`
 
 ## Fonts
 
