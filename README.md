@@ -1,4 +1,4 @@
-# Landing page wedding invitation
+# Wedding invitation on the landing page
 
 ## Colors
 
