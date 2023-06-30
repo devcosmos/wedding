@@ -1,5 +1,9 @@
 # Wedding invitation on the landing page
 
+## Demo
+
+[irina-valeriy](https://devcosmos.github.io/wedding/)
+
 ## Colors
 
 - ![#93A688](https://placehold.co/15x15/93a688/93a688.png) `#93A688`
