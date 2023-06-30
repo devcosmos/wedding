@@ -2,9 +2,9 @@
 
 ## Colors
 
-- ![#FAF6F1](https://placehold.co/15x15/FAF6F1/FAF6F1.png) `#FAF6F1`
+- ![#93A688](https://placehold.co/15x15/93a688/93a688.png) `#93A688`
 - ![#272924](https://placehold.co/15x15/272924/272924.png) `#272924`
-- ![#FAF6F1](https://placehold.co/15x15/FAF6F1/FAF6F1.png) `#FAF6F1`
+- ![#FAF6F1](https://placehold.co/15x15/faf6f1/faf6f1.png) `#FAF6F1`
 
 ## Fonts
 
